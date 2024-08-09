@@ -2,6 +2,8 @@
 
 Este proyecto consiste en un conjunto de scripts en Python diseñados para extraer información sobre las estaciones del Metro de Madrid desde Wikipedia, y luego visualizarlas en un mapa interactivo.
 
+![Project image sample](image.png)
+
 Los dos scripts principales son:
 
 - scrape.py: Se encarga de extraer y procesar la información de las estaciones del Metro de Madrid desde una página de Wikipedia y guardar esta información en un archivo JSON.
