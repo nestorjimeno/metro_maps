@@ -1,0 +1,2606 @@
+{
+    "Línea 1": {
+        "nombre": "Pinar de Chamartín - Valdecarros",
+        "color": "#30a3dc",
+        "estaciones": [
+            {
+                "nombre": "Pinar de Chamartín",
+                "coords": [
+                    40.4801375,
+                    -3.6667999
+                ],
+                "other_lines": [
+                    "Línea 4"
+                ]
+            },
+            {
+                "nombre": "Bambú",
+                "coords": [
+                    40.4768117,
+                    -3.6763701
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Chamartín",
+                "coords": [
+                    40.472101,
+                    -3.6826857
+                ],
+                "other_lines": [
+                    "Línea 10"
+                ]
+            },
+            {
+                "nombre": "Plaza de Castilla",
+                "coords": [
+                    40.4668983,
+                    -3.6891989
+                ],
+                "other_lines": [
+                    "Línea 9",
+                    "Línea 10"
+                ]
+            },
+            {
+                "nombre": "Valdeacederas",
+                "coords": [
+                    40.4644218,
+                    -3.6950594
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Tetuán",
+                "coords": [
+                    40.4605563,
+                    -3.6982512
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Estrecho",
+                "coords": [
+                    40.4542836,
+                    -3.7030217
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Alvarado",
+                "coords": [
+                    40.4503359,
+                    -3.7033108
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Cuatro Caminos",
+                "coords": [
+                    40.4469716,
+                    -3.7039697
+                ],
+                "other_lines": [
+                    "Línea 2",
+                    "Línea 6"
+                ]
+            },
+            {
+                "nombre": "Ríos Rosas",
+                "coords": [
+                    40.4419664,
+                    -3.7012714
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Iglesia",
+                "coords": [
+                    40.4349206,
+                    -3.6989767
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Bilbao",
+                "coords": [
+                    40.4290543,
+                    -3.7021816
+                ],
+                "other_lines": [
+                    "Línea 4"
+                ]
+            },
+            {
+                "nombre": "Tribunal",
+                "coords": [
+                    40.426187,
+                    -3.7011027
+                ],
+                "other_lines": [
+                    "Línea 10"
+                ]
+            },
+            {
+                "nombre": "Gran Vía",
+                "coords": [
+                    40.4200103,
+                    -3.7018052
+                ],
+                "other_lines": [
+                    "Línea 5"
+                ]
+            },
+            {
+                "nombre": "Sol",
+                "coords": [
+                    40.4167635,
+                    -3.7036371
+                ],
+                "other_lines": [
+                    "Línea 2",
+                    "Línea 3"
+                ]
+            },
+            {
+                "nombre": "Tirso de Molina",
+                "coords": [
+                    40.4123454,
+                    -3.70466
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Antón Martín",
+                "coords": [
+                    40.4124676,
+                    -3.6993693
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Estación del Arte",
+                "coords": [
+                    40.4088513,
+                    -3.6924845
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Atocha",
+                "coords": [
+                    40.406528,
+                    -3.689373
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Menéndez Pelayo",
+                "coords": [
+                    40.404451,
+                    -3.6809847
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Pacífico",
+                "coords": [
+                    40.40126,
+                    -3.6751312
+                ],
+                "other_lines": [
+                    "Línea 6"
+                ]
+            },
+            {
+                "nombre": "Puente de Vallecas",
+                "coords": [
+                    40.3981962,
+                    -3.6690554
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Nueva Numancia",
+                "coords": [
+                    40.3955396,
+                    -3.6641393
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Portazgo",
+                "coords": [
+                    40.3926609,
+                    -3.6586792
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Buenos Aires",
+                "coords": [
+                    40.3915617,
+                    -3.6539084
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Alto del Arenal",
+                "coords": [
+                    40.3897726,
+                    -3.6452194
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Miguel Hernández",
+                "coords": [
+                    40.3873756,
+                    -3.6397031
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Sierra de Guadalupe",
+                "coords": [
+                    40.3825,
+                    -3.6249
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Villa de Vallecas",
+                "coords": [
+                    40.3795968,
+                    -3.621302
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Congosto",
+                "coords": [
+                    40.3723846,
+                    -3.6188449
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "La Gavia",
+                "coords": [
+                    40.3692237,
+                    -3.6125821
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Las Suertes",
+                "coords": [
+                    40.3632247,
+                    -3.5995284
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Valdecarros",
+                "coords": [
+                    40.3600682,
+                    -3.5931643
+                ],
+                "other_lines": []
+            }
+        ]
+    },
+    "Línea 2": {
+        "nombre": "Las Rosas - Cuatro Caminos",
+        "color": "#cd031d",
+        "estaciones": [
+            {
+                "nombre": "Las Rosas",
+                "coords": [
+                    40.4237466,
+                    -3.6033063
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Avenida de Guadalajara",
+                "coords": [
+                    40.4223943,
+                    -3.6120645
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Alsacia",
+                "coords": [
+                    40.4182882,
+                    -3.6235082
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "La Almudena",
+                "coords": [
+                    40.4236175,
+                    -3.6391412
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "La Elipa",
+                "coords": [
+                    40.4266173,
+                    -3.6505221
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Ventas",
+                "coords": [
+                    40.4308851,
+                    -3.6636615
+                ],
+                "other_lines": [
+                    "Línea 5"
+                ]
+            },
+            {
+                "nombre": "Manuel Becerra",
+                "coords": [
+                    40.4279069,
+                    -3.6692552
+                ],
+                "other_lines": [
+                    "Línea 6"
+                ]
+            },
+            {
+                "nombre": "Goya",
+                "coords": [
+                    40.4250659,
+                    -3.6743144
+                ],
+                "other_lines": [
+                    "Línea 4"
+                ]
+            },
+            {
+                "nombre": "Príncipe de Vergara",
+                "coords": [
+                    40.4229427,
+                    -3.6801218
+                ],
+                "other_lines": [
+                    "Línea 9"
+                ]
+            },
+            {
+                "nombre": "Retiro",
+                "coords": [
+                    40.4203029,
+                    -3.6862484
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Banco de España",
+                "coords": [
+                    40.4190564,
+                    -3.6949689
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Sevilla",
+                "coords": [
+                    40.418054,
+                    -3.6992503
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Sol",
+                "coords": [
+                    40.4167635,
+                    -3.7036371
+                ],
+                "other_lines": [
+                    "Línea 1",
+                    "Línea 3"
+                ]
+            },
+            {
+                "nombre": "Ópera",
+                "coords": [
+                    40.4181665,
+                    -3.7094163
+                ],
+                "other_lines": [
+                    "Línea 5",
+                    "Línea 13"
+                ]
+            },
+            {
+                "nombre": "Santo Domingo",
+                "coords": [
+                    40.4213164,
+                    -3.7079598
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Noviciado",
+                "coords": [
+                    40.4248706,
+                    -3.7074324
+                ],
+                "other_lines": [
+                    "Línea 3",
+                    "Línea 10"
+                ]
+            },
+            {
+                "nombre": "San Bernardo",
+                "coords": [
+                    40.4297496,
+                    -3.7057433
+                ],
+                "other_lines": [
+                    "Línea 4"
+                ]
+            },
+            {
+                "nombre": "Quevedo",
+                "coords": [
+                    40.4332213,
+                    -3.7043352
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Canal",
+                "coords": [
+                    40.4384107,
+                    -3.7043304
+                ],
+                "other_lines": [
+                    "Línea 7"
+                ]
+            },
+            {
+                "nombre": "Cuatro Caminos",
+                "coords": [
+                    40.4469716,
+                    -3.7039697
+                ],
+                "other_lines": [
+                    "Línea 1",
+                    "Línea 6"
+                ]
+            }
+        ]
+    },
+    "Línea 3": {
+        "nombre": "Villaverde Alto - Moncloa",
+        "color": "#ffe114",
+        "estaciones": [
+            {
+                "nombre": "Villaverde Alto",
+                "coords": [
+                    40.34163,
+                    -3.712478
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "San Cristóbal",
+                "coords": [
+                    40.3413659,
+                    -3.6927862
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Villaverde Bajo-Cruce",
+                "coords": [
+                    40.3508945,
+                    -3.6926458
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Ciudad de los Ángeles",
+                "coords": [
+                    40.3595825,
+                    -3.6936297
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "San Fermín-Orcasur",
+                "coords": [
+                    40.3699938,
+                    -3.6941721
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Hospital 12 de Octubre",
+                "coords": [
+                    40.3750289,
+                    -3.6958492
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Almendrales",
+                "coords": [
+                    40.3840978,
+                    -3.6978863
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Legazpi",
+                "coords": [
+                    40.3911507,
+                    -3.6951198
+                ],
+                "other_lines": [
+                    "Línea 6"
+                ]
+            },
+            {
+                "nombre": "Delicias",
+                "coords": [
+                    40.3999161,
+                    -3.6941609
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Palos de la Frontera",
+                "coords": [
+                    40.4030775,
+                    -3.6941743
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Embajadores",
+                "coords": [
+                    40.4050625,
+                    -3.7027244
+                ],
+                "other_lines": [
+                    "Línea 5"
+                ]
+            },
+            {
+                "nombre": "Lavapiés",
+                "coords": [
+                    40.4085124,
+                    -3.700908
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Sol",
+                "coords": [
+                    40.4167635,
+                    -3.7036371
+                ],
+                "other_lines": [
+                    "Línea 1",
+                    "Línea 2"
+                ]
+            },
+            {
+                "nombre": "Callao",
+                "coords": [
+                    40.4201343,
+                    -3.7057717
+                ],
+                "other_lines": [
+                    "Línea 5"
+                ]
+            },
+            {
+                "nombre": "Plaza de España",
+                "coords": [
+                    40.4248706,
+                    -3.7074324
+                ],
+                "other_lines": [
+                    "Línea 2",
+                    "Línea 10"
+                ]
+            },
+            {
+                "nombre": "Ventura Rodríguez",
+                "coords": [
+                    40.4270848,
+                    -3.7134076
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Argüelles",
+                "coords": [
+                    40.4306636,
+                    -3.7159686
+                ],
+                "other_lines": [
+                    "Línea 4",
+                    "Línea 6"
+                ]
+            },
+            {
+                "nombre": "Moncloa",
+                "coords": [
+                    40.4353828,
+                    -3.7191483
+                ],
+                "other_lines": [
+                    "Línea 6"
+                ]
+            }
+        ]
+    },
+    "Línea 4": {
+        "nombre": "Argüelles - Pinar de Chamartín",
+        "color": "#944248",
+        "estaciones": [
+            {
+                "nombre": "Argüelles",
+                "coords": [
+                    40.4306636,
+                    -3.7159686
+                ],
+                "other_lines": [
+                    "Línea 3",
+                    "Línea 6"
+                ]
+            },
+            {
+                "nombre": "San Bernardo",
+                "coords": [
+                    40.4297496,
+                    -3.7057433
+                ],
+                "other_lines": [
+                    "Línea 2"
+                ]
+            },
+            {
+                "nombre": "Bilbao",
+                "coords": [
+                    40.4290543,
+                    -3.7021816
+                ],
+                "other_lines": [
+                    "Línea 1"
+                ]
+            },
+            {
+                "nombre": "Alonso Martínez",
+                "coords": [
+                    40.4277226,
+                    -3.6959433
+                ],
+                "other_lines": [
+                    "Línea 5",
+                    "Línea 10"
+                ]
+            },
+            {
+                "nombre": "Colón",
+                "coords": [
+                    40.4254188,
+                    -3.6910038
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Serrano",
+                "coords": [
+                    40.4254357,
+                    -3.6866306
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Velázquez",
+                "coords": [
+                    40.4250344,
+                    -3.6829131
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Goya",
+                "coords": [
+                    40.4250659,
+                    -3.6743144
+                ],
+                "other_lines": [
+                    "Línea 2"
+                ]
+            },
+            {
+                "nombre": "Lista",
+                "coords": [
+                    40.4291685,
+                    -3.6754098
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Diego de León",
+                "coords": [
+                    40.4346757,
+                    -3.6749579
+                ],
+                "other_lines": [
+                    "Línea 5",
+                    "Línea 6"
+                ]
+            },
+            {
+                "nombre": "Avenida de América",
+                "coords": [
+                    40.438035,
+                    -3.6766893
+                ],
+                "other_lines": [
+                    "Línea 6",
+                    "Línea 7",
+                    "Línea 9"
+                ]
+            },
+            {
+                "nombre": "Prosperidad",
+                "coords": [
+                    40.4441899,
+                    -3.6748168
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Alfonso XIII",
+                "coords": [
+                    40.4482482,
+                    -3.6679119
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Avenida de la Paz",
+                "coords": [
+                    40.453539,
+                    -3.661183
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Arturo Soria",
+                "coords": [
+                    40.4558288,
+                    -3.6561813
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Esperanza",
+                "coords": [
+                    40.4594456,
+                    -3.6458138
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Canillas",
+                "coords": [
+                    40.4638092,
+                    -3.6355935
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Mar de Cristal",
+                "coords": [
+                    40.4694241,
+                    -3.6383243
+                ],
+                "other_lines": [
+                    "Línea 8"
+                ]
+            },
+            {
+                "nombre": "San Lorenzo",
+                "coords": [
+                    40.4744713,
+                    -3.6395754
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Parque de Santa María",
+                "coords": [
+                    40.4771155,
+                    -3.6452396
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Hortaleza",
+                "coords": [
+                    40.4753716,
+                    -3.6525732
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Manoteras",
+                "coords": [
+                    40.4768716,
+                    -3.6628981
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Pinar de Chamartín",
+                "coords": [
+                    40.4801375,
+                    -3.6667999
+                ],
+                "other_lines": [
+                    "Línea 1"
+                ]
+            }
+        ]
+    },
+    "Línea 5": {
+        "nombre": "Alameda de Osuna - Casa de Campo",
+        "color": "#96bf0d",
+        "estaciones": [
+            {
+                "nombre": "Alameda de Osuna",
+                "coords": [
+                    40.457792,
+                    -3.587523
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "El Capricho",
+                "coords": [
+                    40.4534705,
+                    -3.5940073
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Canillejas",
+                "coords": [
+                    40.449424,
+                    -3.6081585
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Torre Arias",
+                "coords": [
+                    40.4437467,
+                    -3.6169981
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Suanzes",
+                "coords": [
+                    40.4407959,
+                    -3.6268962
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Ciudad Lineal",
+                "coords": [
+                    40.4380469,
+                    -3.638159
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Pueblo Nuevo",
+                "coords": [
+                    40.4356962,
+                    -3.6428288
+                ],
+                "other_lines": [
+                    "Línea 7"
+                ]
+            },
+            {
+                "nombre": "Quintana",
+                "coords": [
+                    40.4335811,
+                    -3.647359
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "El Carmen",
+                "coords": [
+                    40.4318928,
+                    -3.6575758
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Ventas",
+                "coords": [
+                    40.4308851,
+                    -3.6636615
+                ],
+                "other_lines": [
+                    "Línea 2"
+                ]
+            },
+            {
+                "nombre": "Diego de León",
+                "coords": [
+                    40.4346757,
+                    -3.6749579
+                ],
+                "other_lines": [
+                    "Línea 4",
+                    "Línea 6"
+                ]
+            },
+            {
+                "nombre": "Núñez de Balboa",
+                "coords": [
+                    40.4327842,
+                    -3.6825787
+                ],
+                "other_lines": [
+                    "Línea 9"
+                ]
+            },
+            {
+                "nombre": "Rubén Darío",
+                "coords": [
+                    40.4331574,
+                    -3.6895385
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Alonso Martínez",
+                "coords": [
+                    40.4277226,
+                    -3.6959433
+                ],
+                "other_lines": [
+                    "Línea 4",
+                    "Línea 10"
+                ]
+            },
+            {
+                "nombre": "Chueca",
+                "coords": [
+                    40.4226162,
+                    -3.6976649
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Gran Vía",
+                "coords": [
+                    40.4200103,
+                    -3.7018052
+                ],
+                "other_lines": [
+                    "Línea 1"
+                ]
+            },
+            {
+                "nombre": "Callao",
+                "coords": [
+                    40.4201343,
+                    -3.7057717
+                ],
+                "other_lines": [
+                    "Línea 3"
+                ]
+            },
+            {
+                "nombre": "Ópera",
+                "coords": [
+                    40.4181665,
+                    -3.7094163
+                ],
+                "other_lines": [
+                    "Línea 2",
+                    "Línea 13"
+                ]
+            },
+            {
+                "nombre": "La Latina",
+                "coords": [
+                    40.411279,
+                    -3.7081611
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Puerta de Toledo",
+                "coords": [
+                    40.4068115,
+                    -3.7108159
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Acacias",
+                "coords": [
+                    40.4050625,
+                    -3.7027244
+                ],
+                "other_lines": [
+                    "Línea 3"
+                ]
+            },
+            {
+                "nombre": "Pirámides",
+                "coords": [
+                    40.4026015,
+                    -3.7113817
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Marqués de Vadillo",
+                "coords": [
+                    40.3973571,
+                    -3.7159575
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Urgel",
+                "coords": [
+                    40.3929839,
+                    -3.7244253
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Oporto",
+                "coords": [
+                    40.3884681,
+                    -3.7313214
+                ],
+                "other_lines": [
+                    "Línea 6"
+                ]
+            },
+            {
+                "nombre": "Vista Alegre",
+                "coords": [
+                    40.3888466,
+                    -3.7398204
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Carabanchel",
+                "coords": [
+                    40.3878228,
+                    -3.7448761
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Eugenia de Montijo",
+                "coords": [
+                    40.3843858,
+                    -3.7512112
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Aluche",
+                "coords": [
+                    40.3856286,
+                    -3.7608513
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Empalme",
+                "coords": [
+                    40.3905726,
+                    -3.7653479
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Campamento",
+                "coords": [
+                    40.3948064,
+                    -3.7681294
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Casa de Campo",
+                "coords": [
+                    40.4032414,
+                    -3.7610123
+                ],
+                "other_lines": [
+                    "Línea 10"
+                ]
+            }
+        ]
+    },
+    "Línea 6": {
+        "nombre": "Circular",
+        "color": "#a0a5a7",
+        "estaciones": [
+            {
+                "nombre": "Laguna",
+                "coords": [
+                    40.399176,
+                    -3.7442212
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Carpetana",
+                "coords": [
+                    40.392704,
+                    -3.7409937
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Oporto",
+                "coords": [
+                    40.3884681,
+                    -3.7313214
+                ],
+                "other_lines": [
+                    "Línea 5"
+                ]
+            },
+            {
+                "nombre": "Opañel",
+                "coords": [
+                    40.3869075,
+                    -3.7231287
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Plaza Elíptica",
+                "coords": [
+                    40.3844911,
+                    -3.7183263
+                ],
+                "other_lines": [
+                    "Línea 11"
+                ]
+            },
+            {
+                "nombre": "Usera",
+                "coords": [
+                    40.3870975,
+                    -3.7068947
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Legazpi",
+                "coords": [
+                    40.3911507,
+                    -3.6951198
+                ],
+                "other_lines": [
+                    "Línea 3"
+                ]
+            },
+            {
+                "nombre": "Arganzuela-Planetario",
+                "coords": [
+                    40.3931948,
+                    -3.6886229
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Méndez Álvaro",
+                "coords": [
+                    40.3956,
+                    -3.678226
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Pacífico",
+                "coords": [
+                    40.40126,
+                    -3.6751312
+                ],
+                "other_lines": [
+                    "Línea 1"
+                ]
+            },
+            {
+                "nombre": "Conde de Casal",
+                "coords": [
+                    40.4069722,
+                    -3.6704034
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Sainz de Baranda",
+                "coords": [
+                    40.4150675,
+                    -3.6695171
+                ],
+                "other_lines": [
+                    "Línea 9"
+                ]
+            },
+            {
+                "nombre": "O'Donnell",
+                "coords": [
+                    40.4228927,
+                    -3.6685926
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Manuel Becerra",
+                "coords": [
+                    40.4279069,
+                    -3.6692552
+                ],
+                "other_lines": [
+                    "Línea 2"
+                ]
+            },
+            {
+                "nombre": "Diego de León",
+                "coords": [
+                    40.4346757,
+                    -3.6749579
+                ],
+                "other_lines": [
+                    "Línea 4",
+                    "Línea 5"
+                ]
+            },
+            {
+                "nombre": "Avenida de América",
+                "coords": [
+                    40.438035,
+                    -3.6766893
+                ],
+                "other_lines": [
+                    "Línea 4",
+                    "Línea 7",
+                    "Línea 9"
+                ]
+            },
+            {
+                "nombre": "República Argentina",
+                "coords": [
+                    40.4437935,
+                    -3.6840578
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Nuevos Ministerios",
+                "coords": [
+                    40.4466221,
+                    -3.6924595
+                ],
+                "other_lines": [
+                    "Línea 8",
+                    "Línea 10"
+                ]
+            },
+            {
+                "nombre": "Cuatro Caminos",
+                "coords": [
+                    40.4469716,
+                    -3.7039697
+                ],
+                "other_lines": [
+                    "Línea 1",
+                    "Línea 2"
+                ]
+            },
+            {
+                "nombre": "Guzmán el Bueno",
+                "coords": [
+                    40.446362,
+                    -3.7122904
+                ],
+                "other_lines": [
+                    "Línea 7"
+                ]
+            },
+            {
+                "nombre": "Vicente Aleixandre",
+                "coords": [
+                    40.446435,
+                    -3.7194254
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Ciudad Universitaria",
+                "coords": [
+                    40.4435602,
+                    -3.7267881
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Moncloa",
+                "coords": [
+                    40.4353828,
+                    -3.7191483
+                ],
+                "other_lines": [
+                    "Línea 3"
+                ]
+            },
+            {
+                "nombre": "Argüelles",
+                "coords": [
+                    40.4306636,
+                    -3.7159686
+                ],
+                "other_lines": [
+                    "Línea 3",
+                    "Línea 4"
+                ]
+            },
+            {
+                "nombre": "Príncipe Pío",
+                "coords": [
+                    40.4210681,
+                    -3.7203687
+                ],
+                "other_lines": [
+                    "Línea 10",
+                    "Línea 13"
+                ]
+            },
+            {
+                "nombre": "Puerta del Ángel",
+                "coords": [
+                    40.4138996,
+                    -3.7272354
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Alto de Extremadura",
+                "coords": [
+                    40.4099246,
+                    -3.7389312
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Lucero",
+                "coords": [
+                    40.4047855,
+                    -3.7455976
+                ],
+                "other_lines": []
+            }
+        ]
+    },
+    "Línea 7": {
+        "nombre": "Pitis - Hospital del Henares",
+        "color": "#faa64a",
+        "estaciones": [
+            {
+                "nombre": "Hospital del Henares",
+                "coords": [
+                    40.4176066,
+                    -3.5345323
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Henares",
+                "coords": [
+                    40.4177664,
+                    -3.5271783
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Jarama",
+                "coords": [
+                    40.4229543,
+                    -3.5254977
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "San Fernando",
+                "coords": [
+                    40.4244134,
+                    -3.5354112
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "La Rambla",
+                "coords": [
+                    40.4251478,
+                    -3.5479247
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Coslada Central",
+                "coords": [
+                    40.4237329,
+                    -3.5611868
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Barrio del Puerto",
+                "coords": [
+                    40.4224957,
+                    -3.5691925
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Estadio Metropolitano",
+                "coords": [
+                    40.4333937,
+                    -3.6001502
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Las Musas",
+                "coords": [
+                    40.432984,
+                    -3.6078807
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "San Blas",
+                "coords": [
+                    40.427989,
+                    -3.6154635
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Simancas",
+                "coords": [
+                    40.4279879,
+                    -3.6257196
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "García Noblejas",
+                "coords": [
+                    40.4284244,
+                    -3.633304
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Ascao",
+                "coords": [
+                    40.4302016,
+                    -3.6410544
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Pueblo Nuevo",
+                "coords": [
+                    40.4356962,
+                    -3.6428288
+                ],
+                "other_lines": [
+                    "Línea 5"
+                ]
+            },
+            {
+                "nombre": "Barrio de la Concepción",
+                "coords": [
+                    40.4390955,
+                    -3.6519981
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Parque de las Avenidas",
+                "coords": [
+                    40.4394477,
+                    -3.662967
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Cartagena",
+                "coords": [
+                    40.4393407,
+                    -3.6721511
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Avenida de América",
+                "coords": [
+                    40.438035,
+                    -3.6766893
+                ],
+                "other_lines": [
+                    "Línea 4",
+                    "Línea 6",
+                    "Línea 9"
+                ]
+            },
+            {
+                "nombre": "Gregorio Marañón",
+                "coords": [
+                    40.4382539,
+                    -3.6914888
+                ],
+                "other_lines": [
+                    "Línea 10"
+                ]
+            },
+            {
+                "nombre": "Alonso Cano",
+                "coords": [
+                    40.4383784,
+                    -3.6992483
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Canal",
+                "coords": [
+                    40.4384107,
+                    -3.7043304
+                ],
+                "other_lines": [
+                    "Línea 2"
+                ]
+            },
+            {
+                "nombre": "Islas Filipinas",
+                "coords": [
+                    40.4390648,
+                    -3.7137345
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Guzmán el Bueno",
+                "coords": [
+                    40.446362,
+                    -3.7122904
+                ],
+                "other_lines": [
+                    "Línea 6"
+                ]
+            },
+            {
+                "nombre": "Francos Rodríguez",
+                "coords": [
+                    40.4564786,
+                    -3.7123853
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Valdezarza",
+                "coords": [
+                    40.4648258,
+                    -3.7159766
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Antonio Machado",
+                "coords": [
+                    40.4702206,
+                    -3.7176971
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Peñagrande",
+                "coords": [
+                    40.4759259,
+                    -3.715823
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Avenida de la Ilustración",
+                "coords": [
+                    40.4800991,
+                    -3.7184039
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Lacoma",
+                "coords": [
+                    40.4850161,
+                    -3.723046
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Pitis",
+                "coords": [
+                    40.4951038,
+                    -3.7258413
+                ],
+                "other_lines": []
+            }
+        ]
+    },
+    "Línea 8": {
+        "nombre": "Nuevos Ministerios - Aeropuerto T4",
+        "color": "#f27ca2",
+        "estaciones": [
+            {
+                "nombre": "Nuevos Ministerios",
+                "coords": [
+                    40.4466221,
+                    -3.6924595
+                ],
+                "other_lines": [
+                    "Línea 6",
+                    "Línea 10"
+                ]
+            },
+            {
+                "nombre": "Colombia",
+                "coords": [
+                    40.4563406,
+                    -3.6768255
+                ],
+                "other_lines": [
+                    "Línea 9"
+                ]
+            },
+            {
+                "nombre": "Pinar del Rey",
+                "coords": [
+                    40.4679975,
+                    -3.6486679
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Mar de Cristal",
+                "coords": [
+                    40.4694241,
+                    -3.6383243
+                ],
+                "other_lines": [
+                    "Línea 4"
+                ]
+            },
+            {
+                "nombre": "Feria de Madrid",
+                "coords": [
+                    40.4638952,
+                    -3.6162032
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Aeropuerto T1-T2-T3",
+                "coords": [
+                    40.468647,
+                    -3.5696521
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Barajas",
+                "coords": [
+                    40.4758011,
+                    -3.5826118
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Aeropuerto T4",
+                "coords": [
+                    40.4917613,
+                    -3.5935537
+                ],
+                "other_lines": []
+            }
+        ]
+    },
+    "Línea 9": {
+        "nombre": "Paco de Lucía - Arganda del Rey",
+        "color": "#a93094",
+        "estaciones": [
+            {
+                "nombre": "Paco de Lucía",
+                "coords": [
+                    40.4995522,
+                    -3.709039
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Mirasierra",
+                "coords": [
+                    40.4910935,
+                    -3.7163508
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Herrera Oria",
+                "coords": [
+                    40.4846443,
+                    -3.7075242
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Barrio del Pilar",
+                "coords": [
+                    40.4768864,
+                    -3.7031628
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Ventilla",
+                "coords": [
+                    40.4694349,
+                    -3.6958778
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Plaza de Castilla",
+                "coords": [
+                    40.4668983,
+                    -3.6891989
+                ],
+                "other_lines": [
+                    "Línea 1",
+                    "Línea 10"
+                ]
+            },
+            {
+                "nombre": "Duque de Pastrana",
+                "coords": [
+                    40.4676242,
+                    -3.679168
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Pío XII",
+                "coords": [
+                    40.4630043,
+                    -3.6757954
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Colombia",
+                "coords": [
+                    40.4563406,
+                    -3.6768255
+                ],
+                "other_lines": [
+                    "Línea 8"
+                ]
+            },
+            {
+                "nombre": "Concha Espina",
+                "coords": [
+                    40.4505065,
+                    -3.6776132
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Cruz del Rayo",
+                "coords": [
+                    40.4442694,
+                    -3.6782139
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Avenida de América",
+                "coords": [
+                    40.438035,
+                    -3.6766893
+                ],
+                "other_lines": [
+                    "Línea 4",
+                    "Línea 6",
+                    "Línea 7"
+                ]
+            },
+            {
+                "nombre": "Núñez de Balboa",
+                "coords": [
+                    40.4327842,
+                    -3.6825787
+                ],
+                "other_lines": [
+                    "Línea 5"
+                ]
+            },
+            {
+                "nombre": "Príncipe de Vergara",
+                "coords": [
+                    40.4229427,
+                    -3.6801218
+                ],
+                "other_lines": [
+                    "Línea 2"
+                ]
+            },
+            {
+                "nombre": "Ibiza",
+                "coords": [
+                    40.4183629,
+                    -3.6779697
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Sainz de Baranda",
+                "coords": [
+                    40.4150675,
+                    -3.6695171
+                ],
+                "other_lines": [
+                    "Línea 6"
+                ]
+            },
+            {
+                "nombre": "Estrella",
+                "coords": [
+                    40.4114722,
+                    -3.6617853
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Vinateros",
+                "coords": [
+                    40.4102443,
+                    -3.6527335
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Artilleros",
+                "coords": [
+                    40.4052242,
+                    -3.6418076
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Pavones",
+                "coords": [
+                    40.4005126,
+                    -3.6351174
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Valdebernardo",
+                "coords": [
+                    40.4000462,
+                    -3.6215607
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Vicálvaro",
+                "coords": [
+                    40.4042126,
+                    -3.6088599
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "San Cipriano",
+                "coords": [
+                    40.4038141,
+                    -3.6023979
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Puerta de Arganda",
+                "coords": [
+                    40.4013157,
+                    -3.5959768
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Rivas Urbanizaciones",
+                "coords": [
+                    40.3667715,
+                    -3.5472758
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Rivas Futura",
+                "coords": [
+                    40.3416956,
+                    -3.525004
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Rivas Vaciamadrid",
+                "coords": [
+                    40.3283709,
+                    -3.5205975
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "La Poveda",
+                "coords": [
+                    40.3190157,
+                    -3.4774474
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Arganda del Rey",
+                "coords": [
+                    40.3036662,
+                    -3.447521
+                ],
+                "other_lines": []
+            }
+        ]
+    },
+    "Línea 10": {
+        "nombre": "Hospital Infanta Sofía - Puerta del Sur",
+        "color": "#084594",
+        "estaciones": [
+            {
+                "nombre": "Hospital Infanta Sofía",
+                "coords": [
+                    40.5597668,
+                    -3.6114579
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Reyes Católicos",
+                "coords": [
+                    40.5503789,
+                    -3.6233956
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Baunatal",
+                "coords": [
+                    40.554395,
+                    -3.6350471
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Manuel de Falla",
+                "coords": [
+                    40.5504843,
+                    -3.6468756
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Marqués de la Valdavia",
+                "coords": [
+                    40.5410236,
+                    -3.6373849
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "La Moraleja",
+                "coords": [
+                    40.5319526,
+                    -3.6355634
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "La Granja",
+                "coords": [
+                    40.5275987,
+                    -3.6585919
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Ronda de la Comunicación",
+                "coords": [
+                    40.5155389,
+                    -3.6627708
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Las Tablas",
+                "coords": [
+                    40.5083299,
+                    -3.669439
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Montecarmelo",
+                "coords": [
+                    40.5052554,
+                    -3.6957517
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Tres Olivos",
+                "coords": [
+                    40.5012042,
+                    -3.6952016
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Fuencarral",
+                "coords": [
+                    40.4946447,
+                    -3.6926354
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Begoña",
+                "coords": [
+                    40.4804137,
+                    -3.6858447
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Chamartín",
+                "coords": [
+                    40.472101,
+                    -3.6826857
+                ],
+                "other_lines": [
+                    "Línea 1"
+                ]
+            },
+            {
+                "nombre": "Plaza de Castilla",
+                "coords": [
+                    40.4668983,
+                    -3.6891989
+                ],
+                "other_lines": [
+                    "Línea 1",
+                    "Línea 9"
+                ]
+            },
+            {
+                "nombre": "Cuzco",
+                "coords": [
+                    40.4584259,
+                    -3.6898554
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Santiago Bernabéu",
+                "coords": [
+                    40.4521419,
+                    -3.6903855
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Nuevos Ministerios",
+                "coords": [
+                    40.4466221,
+                    -3.6924595
+                ],
+                "other_lines": [
+                    "Línea 6",
+                    "Línea 8"
+                ]
+            },
+            {
+                "nombre": "Gregorio Marañón",
+                "coords": [
+                    40.4382539,
+                    -3.6914888
+                ],
+                "other_lines": [
+                    "Línea 7"
+                ]
+            },
+            {
+                "nombre": "Alonso Martínez",
+                "coords": [
+                    40.4277226,
+                    -3.6959433
+                ],
+                "other_lines": [
+                    "Línea 4",
+                    "Línea 5"
+                ]
+            },
+            {
+                "nombre": "Tribunal",
+                "coords": [
+                    40.426187,
+                    -3.7011027
+                ],
+                "other_lines": [
+                    "Línea 1"
+                ]
+            },
+            {
+                "nombre": "Plaza de España",
+                "coords": [
+                    40.4248706,
+                    -3.7074324
+                ],
+                "other_lines": [
+                    "Línea 2",
+                    "Línea 3"
+                ]
+            },
+            {
+                "nombre": "Príncipe Pío",
+                "coords": [
+                    40.4210681,
+                    -3.7203687
+                ],
+                "other_lines": [
+                    "Línea 6",
+                    "Línea 13"
+                ]
+            },
+            {
+                "nombre": "Lago",
+                "coords": [
+                    40.4164141,
+                    -3.7356311
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Batán",
+                "coords": [
+                    40.4078602,
+                    -3.7531099
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Casa de Campo",
+                "coords": [
+                    40.4032414,
+                    -3.7610123
+                ],
+                "other_lines": [
+                    "Línea 5"
+                ]
+            },
+            {
+                "nombre": "Colonia Jardín",
+                "coords": [
+                    40.3969795,
+                    -3.7746114
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Aviación Española",
+                "coords": [
+                    40.3836374,
+                    -3.7839189
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Cuatro Vientos",
+                "coords": [
+                    40.3777027,
+                    -3.791519
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Joaquín Vilumbrales",
+                "coords": [
+                    40.3498463,
+                    -3.8071962
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Puerta del Sur",
+                "coords": [
+                    40.3452443,
+                    -3.8121102
+                ],
+                "other_lines": [
+                    "Línea 12"
+                ]
+            }
+        ]
+    },
+    "Línea 11": {
+        "nombre": "Plaza Elíptica - La Fortuna",
+        "color": "#008b43",
+        "estaciones": [
+            {
+                "nombre": "Plaza Elíptica",
+                "coords": [
+                    40.3844911,
+                    -3.7183263
+                ],
+                "other_lines": [
+                    "Línea 6"
+                ]
+            },
+            {
+                "nombre": "Abrantes",
+                "coords": [
+                    40.3809,
+                    -3.728
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Pan Bendito",
+                "coords": [
+                    40.3758644,
+                    -3.7341656
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "San Francisco",
+                "coords": [
+                    40.3735987,
+                    -3.7391002
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Carabanchel Alto",
+                "coords": [
+                    40.3719641,
+                    -3.751764
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "La Peseta",
+                "coords": [
+                    40.3642223,
+                    -3.7569
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "La Fortuna",
+                "coords": [
+                    40.3579576,
+                    -3.7778277
+                ],
+                "other_lines": []
+            }
+        ]
+    },
+    "Línea 12": {
+        "nombre": "MetroSur",
+        "color": "#a49a00",
+        "estaciones": [
+            {
+                "nombre": "Puerta del Sur",
+                "coords": [
+                    40.3452443,
+                    -3.8121102
+                ],
+                "other_lines": [
+                    "Línea 10"
+                ]
+            },
+            {
+                "nombre": "Parque Lisboa",
+                "coords": [
+                    40.3496848,
+                    -3.8211949
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Alcorcón Central",
+                "coords": [
+                    40.3500868,
+                    -3.8317739
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Parque Oeste",
+                "coords": [
+                    40.3458961,
+                    -3.849337
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Universidad Rey Juan Carlos",
+                "coords": [
+                    40.3351225,
+                    -3.8721822
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Móstoles Central",
+                "coords": [
+                    40.3287197,
+                    -3.8633785
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Pradillo",
+                "coords": [
+                    40.3216815,
+                    -3.8648885
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Hospital de Móstoles",
+                "coords": [
+                    40.3165265,
+                    -3.874709
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Manuela Malasaña",
+                "coords": [
+                    40.3090301,
+                    -3.8640212
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Loranca",
+                "coords": [
+                    40.2968089,
+                    -3.8376865
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Hospital de Fuenlabrada",
+                "coords": [
+                    40.2857533,
+                    -3.816422
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Parque Europa",
+                "coords": [
+                    40.2851754,
+                    -3.8063216
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Fuenlabrada Central",
+                "coords": [
+                    40.2826772,
+                    -3.7989045
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Parque de los Estados",
+                "coords": [
+                    40.2868401,
+                    -3.7869774
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Arroyo Culebro",
+                "coords": [
+                    40.2887434,
+                    -3.7568226
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Conservatorio",
+                "coords": [
+                    40.2932481,
+                    -3.7457669
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Alonso de Mendoza",
+                "coords": [
+                    40.3008112,
+                    -3.7366366
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Getafe Central",
+                "coords": [
+                    40.3099271,
+                    -3.7340288
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Juan de la Cierva",
+                "coords": [
+                    40.311803,
+                    -3.7222451
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "El Casar",
+                "coords": [
+                    40.3184662,
+                    -3.7098354
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Los Espartales",
+                "coords": [
+                    40.3243,
+                    -3.7183
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "El Bercial",
+                "coords": [
+                    40.32944,
+                    -3.73
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "El Carrascal",
+                "coords": [
+                    40.33667,
+                    -3.74028
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Julián Besteiro",
+                "coords": [
+                    40.3347449,
+                    -3.7526625
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Casa del Reloj",
+                "coords": [
+                    40.3266015,
+                    -3.759423
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Hospital Severo Ochoa",
+                "coords": [
+                    40.3217703,
+                    -3.767973
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "Leganés Central",
+                "coords": [
+                    40.3289809,
+                    -3.771539
+                ],
+                "other_lines": []
+            },
+            {
+                "nombre": "San Nicasio",
+                "coords": [
+                    40.3361594,
+                    -3.7758707
+                ],
+                "other_lines": []
+            }
+        ]
+    },
+    "Línea 13": {
+        "nombre": "Ópera - Príncipe Pío",
+        "color": "#0e4a97",
+        "estaciones": [
+            {
+                "nombre": "Ópera",
+                "coords": [
+                    40.4181665,
+                    -3.7094163
+                ],
+                "other_lines": [
+                    "Línea 2",
+                    "Línea 5"
+                ]
+            },
+            {
+                "nombre": "Príncipe Pío",
+                "coords": [
+                    40.4210681,
+                    -3.7203687
+                ],
+                "other_lines": [
+                    "Línea 6",
+                    "Línea 10"
+                ]
+            }
+        ]
+    }
+}
